@@ -1,0 +1,16 @@
+{
+  "name": "naturalisation-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index"
+  },
+  "author": "abidh",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "playwright": "^1.50.1",
+    "sound-play": "^1.1.0"
+  }
+}
